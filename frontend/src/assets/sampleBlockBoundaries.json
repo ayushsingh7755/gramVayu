@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Najafgarh Block Boundary",
+        "blockName": "Najafgarh",
+        "district": "South West Delhi",
+        "color": "#2563eb"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.89, 28.555],
+            [77.00, 28.555],
+            [77.00, 28.650],
+            [76.89, 28.650],
+            [76.89, 28.555]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapashera Block Boundary",
+        "blockName": "Kapashera",
+        "district": "South West Delhi",
+        "color": "#16a34a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.00, 28.510],
+            [77.115, 28.510],
+            [77.115, 28.580],
+            [77.00, 28.580],
+            [77.00, 28.510]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narela Block Boundary",
+        "blockName": "Narela",
+        "district": "North West Delhi",
+        "color": "#0891b2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.02, 28.780],
+            [77.155, 28.780],
+            [77.155, 28.875],
+            [77.02, 28.875],
+            [77.02, 28.780]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanjhawala Block Boundary",
+        "blockName": "Kanjhawala",
+        "district": "North West Delhi",
+        "color": "#7c3aed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.935, 28.695],
+            [77.02, 28.695],
+            [77.02, 28.775],
+            [76.935, 28.775],
+            [76.935, 28.695]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahadurgarh Block Boundary",
+        "blockName": "Bahadurgarh",
+        "district": "Jhajjar",
+        "color": "#d97706"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.82, 28.575],
+            [76.93, 28.575],
+            [76.93, 28.755],
+            [76.82, 28.755],
+            [76.82, 28.575]
+          ]
+        ]
+      }
+    }
+  ]
+}
