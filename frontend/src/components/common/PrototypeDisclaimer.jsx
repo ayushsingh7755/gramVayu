@@ -1,11 +1,15 @@
-import React from 'react'
+import React from 'react';
+import { Info, Cpu } from 'lucide-react';
+import { PROTOTYPE_DISCLAIMER_TEXT } from '../../utils/constants';
 
-function PrototypeDisclaimer() {
+export const PrototypeDisclaimer = ({ compact = false }) => {
+  if (compact) {
+    return (
+      <></>
+    );
+  }
+
   return (
-    <div>
-      
-    </div>
-  )
-}
-
-export default PrototypeDisclaimer
+    <></>
+  );
+};
