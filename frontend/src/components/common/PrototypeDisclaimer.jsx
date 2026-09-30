@@ -17,9 +17,9 @@ export const PrototypeDisclaimer = ({ compact = false }) => {
       <Info className="h-5 w-5 text-amber-600 shrink-0 mt-0.5" />
       <div>
         <span className="font-semibold text-amber-950">
-          Prototype Simulated Downscaling Notice:{' '}
+          
         </span>
-        <span>{PROTOTYPE_DISCLAIMER_TEXT}</span>
+        <span></span>
       </div>
     </div>
   );
